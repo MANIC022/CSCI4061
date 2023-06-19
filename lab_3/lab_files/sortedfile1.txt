@@ -1,7 +1,0 @@
-avocado
-banana
-carambola
-grape
-mango
-papaya
-pineapple
