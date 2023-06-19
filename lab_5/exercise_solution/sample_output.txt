@@ -1,0 +1,32 @@
+Name: low_io.c
+Hard Links: 1
+Size: 2960
+
+Name: input
+Hard Links: 1
+Size: 13609
+
+Name: makefile
+Hard Links: 1
+Size: 132
+
+Name: input
+Hard Links: 1
+Size: 13609
+
+Name: creat.c
+Hard Links: 1
+Size: 230
+
+Name: write.c
+Hard Links: 1
+Size: 498
+
+Name: dup2.c
+Hard Links: 1
+Size: 1097
+
+Name: dup2_output
+Hard Links: 1
+Size: 796
+
