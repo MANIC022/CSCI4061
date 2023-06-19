@@ -1,0 +1,3 @@
+The overarching project for CSCI 4061 was to develop a web browser
+The Web Browser has basic lookup functionality, blacklisting, and saving websites
+Additionally, it explores using web sockets to access the internet as well
