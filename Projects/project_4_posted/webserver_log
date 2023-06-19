@@ -1,0 +1,5 @@
+[  0] [  1] [  5] [/index.html                   ] [      4] [FALSE]
+[  1] [  1] [  7] [/image/gif/21.gif             ] [  72507] [FALSE]
+[  2] [  1] [  8] [/image/gif/21.gif             ] [  72507] [ TRUE]
+[  3] [  1] [  7] [/image/gif/21.gi              ] [     -1] [FALSE]
+[  4] [  1] [  8] [/image/gif/21.gisadf          ] [     -1] [FALSE]

@@ -1,0 +1,7 @@
+--2022-12-13 08:17:06--  http://127.0.0.1:9000/text/plain//.txt
+Connecting to 127.0.0.1:9000... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2022-12-13 08:22:58--  (try: 2)  http://127.0.0.1:9000/text/plain//.txt
+Connecting to 127.0.0.1:9000... failed: Connection refused.
