@@ -1,0 +1,4 @@
+find . -iname '*.c' >files.txt
+find . -iname '*.c' >files.txt 2>errors.txt
+find . -iname '*.c' >files.txt 2>&1
+You'll find that all of the output went to the file def.txt! This is a side-effect of the stdio library buffering its output to minimize the amount of times it calls the write system call. In the case where we did not redirect the standard output, stdio was smart enough to realize that we are writing to a terminal device and all data should be flushed out so that the user is not delayed waiting for output. In the case where we redirected the output, the data was not written until after the file descriptor was changed. It was just sitting in a memory buffer. To get the desired behavior, we need to ensure that we flush any pending data with the fflush function (part of stdlib):
