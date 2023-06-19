@@ -1,0 +1,11 @@
+//sample output
+
+Parent writes: {s}
+Parent reads: {s}
+Child reads: {s}
+Child writes: {x}
+Parent reads: {s}
+
+//To run code
+> gcc -o lab_8 lab_file.c
+> ./lab_8
