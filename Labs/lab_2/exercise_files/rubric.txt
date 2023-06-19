@@ -1,0 +1,11 @@
+The expected result is:
+
+      [ID = 7601] The list of first 5 terms in the Fibonacci Sequence is: 0, 1, 1, 2, 3
+      [ID = 7602] Factorial of 5 is 120
+      [ID = 7603] Done
+      
+Defination:
+
+Factorial is the product of all positive integers less than or equal to a given positive integer and denoted by that integer and an exclamation point. Thus, factorial seven is written 7!, meaning 1 × 2 × 3 × 4 × 5 × 6 × 7. 
+
+Fibonacci sequence in which each number is the sum of the two preceding ones. 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89...
