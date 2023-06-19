@@ -1,4 +1,0 @@
-C Tutorial: I/O Redirection
-Redirecting I/O
-A powerful capability in the shell is the ability to treat terminal input and output interchangeably with file input/output for most commands. For example, to save the list of all files ending with .c into a file called files.txt, one can run:
-this is sample text typed into terminal
